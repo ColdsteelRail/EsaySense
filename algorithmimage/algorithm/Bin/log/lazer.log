@@ -1,0 +1,146 @@
+2020-03-24 17:33:09.918 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-24 17:33:09.918 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-24 17:37:28.687 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-24 17:37:28.687 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-24 17:51:51.935 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-24 17:51:51.936 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-24 17:55:12.756 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-24 17:55:12.756 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-24 18:00:17.525 | INFO     | __main__:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-24 18:00:17.525 | INFO     | __main__:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-24 18:00:17.531 | ERROR    | __main__:<module>:291 - An error has been caught in function '<module>', process 'MainProcess' (48361), thread 'MainThread' (139832502519552):
+Traceback (most recent call last):
+
+  File "flow_detection.py", line 291, in <module>
+    AlgorithmInitModle(0,logpath)
+    │                    └ 'log/lazer.log'
+    └ <function AlgorithmInitModle at 0x7f2d12e1b7b8>
+
+  File "flow_detection.py", line 206, in AlgorithmInitModle
+    LazerRecognition = LazerRecognition()                          # 初始化LazerRecognition类
+    │                  └ <class '__main__.LazerRecognition'>
+    └ <class '__main__.LazerRecognition'>
+
+  File "flow_detection.py", line 22, in __init__
+    self.standard_figure = config.standard_figure # 无原料时的标准激光线图片
+    │                      └ <module 'config' from '/home/ubuntu/miniconda3/lib/python3.6/site-packages/config.py'>
+    └ <__main__.LazerRecognition object at 0x7f2d12daabe0>
+
+AttributeError: module 'config' has no attribute 'standard_figure'
+2020-03-24 18:00:17.596 | ERROR    | __main__:AlgorithmRun:242 - lazer_extraction() missing 1 required positional argument: 'image'
+2020-03-25 09:16:31.011 | INFO     | __main__:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-25 09:16:31.011 | INFO     | __main__:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-25 09:18:12.588 | INFO     | __main__:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-25 09:18:12.588 | INFO     | __main__:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-25 09:18:21.453 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-25 09:18:21.454 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-25 09:33:18.736 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-25 09:33:18.736 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-25 09:34:07.564 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-25 09:34:07.564 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-25 09:34:22.594 | INFO     | __main__:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-25 09:34:22.594 | INFO     | __main__:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-25 09:36:57.828 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-25 09:36:57.828 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-25 09:39:31.909 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-25 09:39:31.909 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-25 10:13:19.357 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-25 10:13:19.357 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-25 10:21:46.660 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-25 10:21:46.660 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-25 14:03:51.382 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-25 14:03:51.383 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-25 14:10:03.957 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-25 14:10:03.958 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-25 14:42:27.512 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-25 14:42:27.512 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-25 15:45:31.625 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-25 15:45:31.626 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-25 15:56:03.513 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-25 15:56:03.514 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-25 16:15:53.768 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-25 16:15:53.768 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-25 16:26:10.747 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-25 16:26:10.747 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-25 16:28:19.279 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-25 16:28:19.279 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-25 16:36:09.908 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-25 16:36:09.908 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-26 13:52:49.982 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-26 13:52:49.983 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-26 14:24:21.594 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-26 14:24:21.594 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-26 16:15:55.995 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-26 16:15:55.995 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-26 16:26:57.917 | INFO     | __main__:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-26 16:26:57.918 | INFO     | __main__:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-26 16:35:37.589 | INFO     | __main__:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-26 16:35:37.589 | INFO     | __main__:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-26 16:46:10.057 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-26 16:46:10.057 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-26 16:48:44.319 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-26 16:48:44.319 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-26 16:55:07.373 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-26 16:55:07.373 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-26 17:58:32.256 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-26 17:58:32.256 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-30 10:16:22.549 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-30 10:16:22.550 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-30 10:50:38.684 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-30 10:50:38.684 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-30 10:52:44.559 | INFO     | __main__:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-30 10:52:44.559 | INFO     | __main__:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-30 10:53:18.183 | INFO     | __main__:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-30 10:53:18.183 | INFO     | __main__:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-30 10:54:29.938 | INFO     | __main__:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-30 10:54:29.939 | INFO     | __main__:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-31 09:21:19.637 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-31 09:21:19.640 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-31 09:22:59.469 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-31 09:22:59.470 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-31 09:26:37.943 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-31 09:26:37.943 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-31 16:49:30.533 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-31 16:49:30.534 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-31 16:51:50.852 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-31 16:51:50.852 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-31 16:52:50.220 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-31 16:52:50.220 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-31 16:55:02.834 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-31 16:55:02.834 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-31 16:56:23.618 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-31 16:56:23.619 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-31 16:57:13.897 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-31 16:57:13.897 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-31 16:58:06.539 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-31 16:58:06.539 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-31 16:59:04.675 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-31 16:59:04.675 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-31 16:59:45.631 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-31 16:59:45.631 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-31 17:02:28.398 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-31 17:02:28.398 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-31 17:06:52.571 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-31 17:06:52.571 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-03-31 17:07:53.127 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-03-31 17:07:53.127 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-04-17 14:52:03.466 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-04-17 14:52:03.486 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-04-17 16:48:35.751 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-04-17 16:48:35.752 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-04-17 16:59:18.052 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-04-17 16:59:18.053 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-04-21 09:31:06.664 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-04-21 09:31:06.664 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-05-19 15:53:44.602 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-05-19 15:53:44.603 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-05-19 15:55:24.926 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-05-19 15:55:24.926 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-05-19 15:58:32.940 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-05-19 15:58:32.940 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-05-26 15:59:17.610 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-05-26 15:59:17.610 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-05-26 16:05:08.412 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-05-26 16:05:08.412 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log
+2020-05-26 16:12:02.236 | INFO     | flow_detection:AlgorithmInitModle:188 - python: GPUID received: 0
+2020-05-26 16:12:02.236 | INFO     | flow_detection:AlgorithmInitModle:189 - logPath received: log/lazer.log

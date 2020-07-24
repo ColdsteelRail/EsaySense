@@ -1,0 +1,20 @@
+2020-03-24 at 18:00:17 | ERROR | An error has been caught in function '<module>', process 'MainProcess' (48361), thread 'MainThread' (139832502519552):
+Traceback (most recent call last):
+
+> File "flow_detection.py", line 291, in <module>
+    AlgorithmInitModle(0,logpath)
+    │                    └ 'log/lazer.log'
+    └ <function AlgorithmInitModle at 0x7f2d12e1b7b8>
+
+  File "flow_detection.py", line 206, in AlgorithmInitModle
+    LazerRecognition = LazerRecognition()                          # 初始化LazerRecognition类
+    │                  └ <class '__main__.LazerRecognition'>
+    └ <class '__main__.LazerRecognition'>
+
+  File "flow_detection.py", line 22, in __init__
+    self.standard_figure = config.standard_figure # 无原料时的标准激光线图片
+    │                      └ <module 'config' from '/home/ubuntu/miniconda3/lib/python3.6/site-packages/config.py'>
+    └ <__main__.LazerRecognition object at 0x7f2d12daabe0>
+
+AttributeError: module 'config' has no attribute 'standard_figure'
+2020-03-24 at 18:00:17 | ERROR | lazer_extraction() missing 1 required positional argument: 'image'

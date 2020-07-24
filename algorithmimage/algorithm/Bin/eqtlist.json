@@ -1,0 +1,136 @@
+{
+   "result" : {
+      "data" : [
+         {
+            "DetailedSet" : "",
+            "DevPassword" : "test",
+            "DevUserName" : "test",
+            "EquipmentInfoID" : "2",
+            "IP" : "flow_1.mp4",
+            "Name" : "\u6d4b\u8bd5",
+            "Port" : 8000,
+            "ResourceType" : 100,
+            "SubEquipments" : [
+               {
+                  "Alarmtype" : "30",
+                  "DetailedSet" : "",
+                  "EquipmentInfoID" : "2",
+                  "OrgIndex" : "bigdata",
+                  "OrgName" : "13\u697c\u529e\u516c\u5ba4",
+                  "ProductionLineName" : "\u8d5b\u8fea\u5927\u53a6",
+                  "SubEquipmentInfoID" : "2",
+                  "SubName" : "\u6d4b\u8bd5",
+                  "SubNumber" : "1",
+                  "UnicodeName" : "cisdi",
+                  "cluster" : 0
+               }
+            ]
+         },
+         {
+            "DetailedSet" : "",
+            "DevPassword" : "test",
+            "DevUserName" : "test",
+            "EquipmentInfoID" : "3",
+            "IP" : "flow_2.mp4",
+            "Name" : "\u6d4b\u8bd5",
+            "Port" : 8000,
+            "ResourceType" : 100,
+            "SubEquipments" : [
+               {
+                  "Alarmtype" : "30",
+                  "DetailedSet" : "",
+                  "EquipmentInfoID" : "3",
+                  "OrgIndex" : "bigdata",
+                  "OrgName" : "13\u697c\u529e\u516c\u5ba4",
+                  "ProductionLineName" : "\u8d5b\u8fea\u5927\u53a6",
+                  "SubEquipmentInfoID" : "3",
+                  "SubName" : "\u6d4b\u8bd5",
+                  "SubNumber" : "1",
+                  "UnicodeName" : "cisdi",
+                  "cluster" : 0
+               }
+            ]
+         },
+         {
+            "DetailedSet" : "",
+            "DevPassword" : "test",
+            "DevUserName" : "test",
+            "EquipmentInfoID" : "4",
+            "IP" : "flow_3.mp4",
+            "Name" : "\u6d4b\u8bd5",
+            "Port" : 8000,
+            "ResourceType" : 100,
+            "SubEquipments" : [
+               {
+                  "Alarmtype" : "30",
+                  "DetailedSet" : "",
+                  "EquipmentInfoID" : "4",
+                  "OrgIndex" : "bigdata",
+                  "OrgName" : "13\u697c\u529e\u516c\u5ba4",
+                  "ProductionLineName" : "\u8d5b\u8fea\u5927\u53a6",
+                  "SubEquipmentInfoID" : "4",
+                  "SubName" : "\u6d4b\u8bd5",
+                  "SubNumber" : "1",
+                  "UnicodeName" : "cisdi",
+                  "cluster" : 0
+               }
+            ]
+         },
+         {
+            "DetailedSet" : "",
+            "DevPassword" : "test",
+            "DevUserName" : "test",
+            "EquipmentInfoID" : "5",
+            "IP" : "flow_4.mp4",
+            "Name" : "\u6d4b\u8bd5",
+            "Port" : 8000,
+            "ResourceType" : 100,
+            "SubEquipments" : [
+               {
+                  "Alarmtype" : "30",
+                  "DetailedSet" : "",
+                  "EquipmentInfoID" : "5",
+                  "OrgIndex" : "bigdata",
+                  "OrgName" : "13\u697c\u529e\u516c\u5ba4",
+                  "ProductionLineName" : "\u8d5b\u8fea\u5927\u53a6",
+                  "SubEquipmentInfoID" : "5",
+                  "SubName" : "\u6d4b\u8bd5",
+                  "SubNumber" : "1",
+                  "UnicodeName" : "cisdi",
+                  "cluster" : 0
+               }
+            ]
+         },
+         {
+            "DetailedSet" : "",
+            "DevPassword" : "test",
+            "DevUserName" : "test",
+            "EquipmentInfoID" : "6",
+            "IP" : "back_test",
+            "Name" : "\u6d4b\u8bd5",
+            "Port" : 12010,
+            "ResourceType" : 99,
+            "SubEquipments" : [
+               {
+                  "Alarmtype" : "30",
+                  "DetailedSet" : "",
+                  "EquipmentInfoID" : "6",
+                  "OrgIndex" : "bigdata",
+                  "OrgName" : "13\u697c\u529e\u516c\u5ba4",
+                  "ProductionLineName" : "\u8d5b\u8fea\u5927\u53a6",
+                  "SubEquipmentInfoID" : "6",
+                  "SubName" : "\u6d4b\u8bd5",
+                  "SubNumber" : "1",
+                  "UnicodeName" : "cisdi",
+                  "cluster" : 0
+               }
+            ]
+         }
+      ],
+      "pager" : "",
+      "row" : 0,
+      "type" : ""
+   },
+   "state" : 0,
+   "status" : ""
+}

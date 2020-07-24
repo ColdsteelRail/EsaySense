@@ -1,0 +1,159 @@
+2019-12-27 09:56:41.332 | INFO     | loguru._logger:catch_wrapper:1010 - python: GPUID received: 0
+2019-12-27 09:56:41.333 | INFO     | loguru._logger:catch_wrapper:1010 - logPath received: log/cut.log
+2019-12-27 10:05:10.456 | INFO     | loguru._logger:catch_wrapper:1010 - python: GPUID received: 0
+2019-12-27 10:05:10.456 | INFO     | loguru._logger:catch_wrapper:1010 - logPath received: log/cut.log
+2019-12-27 10:06:27.987 | INFO     | loguru._logger:catch_wrapper:1010 - python: GPUID received: 0
+2019-12-27 10:06:27.988 | INFO     | loguru._logger:catch_wrapper:1010 - logPath received: log/cut.log
+2019-12-27 10:17:38.946 | INFO     | loguru._logger:catch_wrapper:1010 - python: GPUID received: 0
+2019-12-27 10:17:38.946 | INFO     | loguru._logger:catch_wrapper:1010 - logPath received: log/cut.log
+2019-12-27 10:26:36.592 | INFO     | __main__:AlgorithmInitModle:229 - python: GPUID received: 0
+2019-12-27 10:26:36.592 | INFO     | __main__:AlgorithmInitModle:230 - logPath received: log/cut.log
+2019-12-27 10:26:37.665 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:37.699 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:37.758 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:37.788 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:37.840 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:37.875 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:37.905 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:37.960 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:37.997 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:38.023 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:38.081 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:38.119 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:38.145 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:38.200 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:38.237 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:38.265 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:38.322 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:38.357 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:38.381 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:38.440 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:38.480 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:38.516 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:38.545 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:38.600 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:38.638 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:38.664 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:38.718 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:38.781 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:38.811 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:38.853 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:38.880 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:38.916 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:38.946 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:39.000 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:39.036 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:39.066 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:39.128 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:39.160 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:39.198 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:39.224 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:39.284 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:39.320 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:39.357 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:39.385 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:39.499 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:39.521 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:39.531 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:39.573 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:39.607 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:39.640 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:39.681 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:39.713 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:39.753 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:39.792 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:39.831 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:39.867 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:39.907 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:39.946 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:39.977 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:40.015 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:40.072 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:40.101 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:40.167 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:40.199 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:40.236 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:40.264 | INFO     | __main__:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:51.723 | INFO     | cut:AlgorithmInitModle:229 - python: GPUID received: 0
+2019-12-27 10:26:51.723 | INFO     | cut:AlgorithmInitModle:230 - logPath received: log/cut.log
+2019-12-27 10:26:55.723 | INFO     | cut:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:55.800 | INFO     | cut:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:55.893 | INFO     | cut:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:55.956 | INFO     | cut:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:56.039 | INFO     | cut:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:56.123 | INFO     | cut:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:56.207 | INFO     | cut:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:56.280 | INFO     | cut:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:56.364 | INFO     | cut:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:56.437 | INFO     | cut:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:56.520 | INFO     | cut:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:56.593 | INFO     | cut:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:56.676 | INFO     | cut:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:56.760 | INFO     | cut:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:56.843 | INFO     | cut:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:56.916 | INFO     | cut:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:56.999 | INFO     | cut:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:57.081 | INFO     | cut:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:57.164 | INFO     | cut:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:57.237 | INFO     | cut:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:57.320 | INFO     | cut:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:57.403 | INFO     | cut:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:57.476 | INFO     | cut:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:57.559 | INFO     | cut:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:57.642 | INFO     | cut:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:57.715 | INFO     | cut:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:57.798 | INFO     | cut:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:57.881 | INFO     | cut:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:57.964 | INFO     | cut:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:58.037 | INFO     | cut:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:26:58.120 | INFO     | cut:AlgorithmRun:241 - ----start detection----
+2019-12-27 10:33:35.291 | INFO     | loguru._logger:catch_wrapper:1010 - python: GPUID received: 0
+2019-12-27 10:33:35.291 | INFO     | loguru._logger:catch_wrapper:1010 - logPath received: log/cut.log
+2019-12-27 10:37:04.671 | INFO     | loguru._logger:catch_wrapper:1010 - python: GPUID received: 0
+2019-12-27 10:37:04.671 | INFO     | loguru._logger:catch_wrapper:1010 - logPath received: log/cut.log
+2019-12-27 10:40:32.370 | INFO     | loguru._logger:catch_wrapper:1010 - python: GPUID received: 0
+2019-12-27 10:40:32.371 | INFO     | loguru._logger:catch_wrapper:1010 - logPath received: log/cut.log
+2019-12-27 14:07:21.028 | INFO     | loguru._logger:catch_wrapper:1010 - python: GPUID received: 0
+2019-12-27 14:07:21.028 | INFO     | loguru._logger:catch_wrapper:1010 - logPath received: log/cut.log
+2019-12-27 14:28:53.883 | INFO     | loguru._logger:catch_wrapper:1010 - python: GPUID received: 0
+2019-12-27 14:28:53.883 | INFO     | loguru._logger:catch_wrapper:1010 - logPath received: log/cut.log
+2019-12-27 23:18:28.383 | INFO     | loguru._logger:catch_wrapper:1010 - python: GPUID received: 0
+2019-12-27 23:18:28.384 | INFO     | loguru._logger:catch_wrapper:1010 - logPath received: log/cut.log
+2019-12-28 08:27:33.658 | INFO     | loguru._logger:catch_wrapper:1010 - python: GPUID received: 0
+2019-12-28 08:27:33.658 | INFO     | loguru._logger:catch_wrapper:1010 - logPath received: log/cut.log
+2019-12-28 08:29:30.244 | INFO     | loguru._logger:catch_wrapper:1010 - python: GPUID received: 0
+2019-12-28 08:29:30.244 | INFO     | loguru._logger:catch_wrapper:1010 - logPath received: log/cut.log
+2019-12-28 09:01:59.259 | INFO     | loguru._logger:catch_wrapper:1010 - python: GPUID received: 0
+2019-12-28 09:01:59.259 | INFO     | loguru._logger:catch_wrapper:1010 - logPath received: log/cut.log
+2019-12-28 09:06:13.481 | INFO     | loguru._logger:catch_wrapper:1010 - python: GPUID received: 0
+2019-12-28 09:06:13.481 | INFO     | loguru._logger:catch_wrapper:1010 - logPath received: log/cut.log
+2019-12-28 11:25:12.384 | INFO     | loguru._logger:catch_wrapper:1010 - python: GPUID received: 0
+2019-12-28 11:25:12.384 | INFO     | loguru._logger:catch_wrapper:1010 - logPath received: log/cut.log
+2019-12-28 16:43:55.660 | INFO     | loguru._logger:catch_wrapper:1010 - python: GPUID received: 0
+2019-12-28 16:43:55.660 | INFO     | loguru._logger:catch_wrapper:1010 - logPath received: log/cut.log
+2019-12-29 08:59:12.179 | INFO     | loguru._logger:catch_wrapper:1010 - python: GPUID received: 0
+2019-12-29 08:59:12.179 | INFO     | loguru._logger:catch_wrapper:1010 - logPath received: log/cut.log
+2019-12-29 09:01:33.705 | INFO     | loguru._logger:catch_wrapper:1010 - python: GPUID received: 0
+2019-12-29 09:01:33.705 | INFO     | loguru._logger:catch_wrapper:1010 - logPath received: log/cut.log
+2019-12-29 09:03:12.829 | INFO     | loguru._logger:catch_wrapper:1010 - python: GPUID received: 0
+2019-12-29 09:03:12.829 | INFO     | loguru._logger:catch_wrapper:1010 - logPath received: log/cut.log
+2019-12-29 09:10:36.644 | INFO     | loguru._logger:catch_wrapper:1010 - python: GPUID received: 0
+2019-12-29 09:10:36.644 | INFO     | loguru._logger:catch_wrapper:1010 - logPath received: log/cut.log
+2019-12-30 07:59:59.863 | INFO     | loguru._logger:catch_wrapper:1010 - python: GPUID received: 0
+2019-12-30 07:59:59.863 | INFO     | loguru._logger:catch_wrapper:1010 - logPath received: log/cut.log
+2019-12-30 09:40:27.173 | INFO     | loguru._logger:catch_wrapper:1010 - python: GPUID received: 0
+2019-12-30 09:40:27.173 | INFO     | loguru._logger:catch_wrapper:1010 - logPath received: log/cut.log
+2019-12-30 09:43:54.934 | INFO     | loguru._logger:catch_wrapper:1010 - python: GPUID received: 0
+2019-12-30 09:43:54.934 | INFO     | loguru._logger:catch_wrapper:1010 - logPath received: log/cut.log
+2019-12-30 10:14:49.181 | INFO     | loguru._logger:catch_wrapper:1010 - python: GPUID received: 0
+2019-12-30 10:14:49.182 | INFO     | loguru._logger:catch_wrapper:1010 - logPath received: log/cut.log
+2019-12-30 10:29:31.607 | INFO     | loguru._logger:catch_wrapper:1010 - python: GPUID received: 0
+2019-12-30 10:29:31.607 | INFO     | loguru._logger:catch_wrapper:1010 - logPath received: log/cut.log
+2019-12-30 10:33:10.458 | INFO     | loguru._logger:catch_wrapper:1010 - python: GPUID received: 0
+2019-12-30 10:33:10.458 | INFO     | loguru._logger:catch_wrapper:1010 - logPath received: log/cut.log
+2019-12-30 10:34:50.175 | INFO     | loguru._logger:catch_wrapper:1010 - python: GPUID received: 0
+2019-12-30 10:34:50.175 | INFO     | loguru._logger:catch_wrapper:1010 - logPath received: log/cut.log
+2020-01-01 09:15:17.609 | INFO     | loguru._logger:catch_wrapper:1010 - python: GPUID received: 0
+2020-01-01 09:15:17.609 | INFO     | loguru._logger:catch_wrapper:1010 - logPath received: log/cut.log
+2020-01-02 10:10:36.139 | INFO     | loguru._logger:catch_wrapper:1010 - python: GPUID received: 0
+2020-01-02 10:10:36.139 | INFO     | loguru._logger:catch_wrapper:1010 - logPath received: log/cut.log

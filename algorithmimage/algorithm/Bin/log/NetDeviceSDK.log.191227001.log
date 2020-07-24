@@ -1,0 +1,49 @@
+#Log File Created On: 12/30/2019 09:40:26
+[Level: 3] 2019-12-30 09:40:26 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2019-12-30 09:43:54 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2019-12-30 10:14:48 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2019-12-30 10:29:31 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2019-12-30 10:33:10 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2019-12-30 10:34:49 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+

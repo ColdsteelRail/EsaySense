@@ -1,0 +1,17 @@
+#Log File Created On: 04/17/2020 16:48:35
+[Level: 3] 2020-04-17 16:48:35 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2020-04-17 16:59:17 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+

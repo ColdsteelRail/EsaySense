@@ -1,0 +1,308 @@
+#Log File Created On: 03/24/2020 15:53:59
+[Level: 3] 2020-03-24 15:53:59 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2020-03-24 15:57:13 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2020-03-24 16:05:50 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2020-03-24 16:12:53 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2020-03-24 16:22:49 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2020-03-24 17:24:00 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2020-03-24 17:24:41 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2020-03-24 17:29:47 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2020-03-24 17:31:34 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2020-03-24 17:33:09 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2020-03-24 17:37:28 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2020-03-24 17:51:51 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2020-03-24 17:55:12 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2020-03-25 09:18:21 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2020-03-25 09:33:18 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2020-03-25 09:34:07 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2020-03-25 09:36:57 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2020-03-25 09:39:31 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2020-03-25 10:13:18 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2020-03-25 10:21:46 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 4] 2020-03-25 10:53:23 send_realstream_req timeout ip:127.0.0.1,port:12000,channel:100003-2
+[Level: 4] 2020-03-25 10:54:12 send_realstream_req timeout ip:127.0.0.1,port:12000,channel:100003-2
+[Level: 4] 2020-03-25 10:55:03 send_realstream_req timeout ip:127.0.0.1,port:12000,channel:100003-2
+[Level: 4] 2020-03-25 10:55:40 send_realstream_req timeout ip:127.0.0.1,port:12000,channel:100003-2
+[Level: 4] 2020-03-25 10:56:04 send_realstream_req timeout ip:127.0.0.1,port:12000,channel:100003-2
+[Level: 4] 2020-03-25 10:56:29 send_realstream_req timeout ip:127.0.0.1,port:12000,channel:100003-2
+[Level: 4] 2020-03-25 10:57:17 send_realstream_req timeout ip:127.0.0.1,port:12000,channel:100003-2
+[Level: 4] 2020-03-25 10:57:56 send_realstream_req timeout ip:127.0.0.1,port:12000,channel:100003-2
+[Level: 4] 2020-03-25 10:58:29 send_realstream_req timeout ip:127.0.0.1,port:12000,channel:100003-2
+[Level: 4] 2020-03-25 10:58:54 send_realstream_req timeout ip:127.0.0.1,port:12000,channel:100003-2
+[Level: 4] 2020-03-25 10:59:26 send_realstream_req timeout ip:127.0.0.1,port:12000,channel:100003-2
+[Level: 3] 2020-03-25 14:03:46 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2020-03-25 14:10:03 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2020-03-25 14:42:27 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2020-03-25 15:45:27 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2020-03-25 15:56:02 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2020-03-25 16:15:53 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2020-03-25 16:26:10 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2020-03-25 16:28:18 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2020-03-25 16:36:09 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2020-03-26 13:51:25 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2020-03-26 13:52:47 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2020-03-26 14:24:21 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2020-03-26 16:15:55 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2020-03-26 16:46:09 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2020-03-26 16:48:43 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2020-03-26 16:55:06 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
+[Level: 3] 2020-03-26 17:58:31 send_login_req recv data£º{
+	"SUID" : "100003",
+	"data" : "",
+	"errCode" : 0,
+	"errMsg" : "successful",
+	"msgType" : 1001
+}
+
