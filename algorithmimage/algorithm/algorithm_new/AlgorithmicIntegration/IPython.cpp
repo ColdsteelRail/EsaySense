@@ -158,7 +158,7 @@ namespace ipython {
 		//return (PyObject*)1;
 	}
 
-	std::string RunPython(PyObject* fun, std::string uuid, unsigned char* rgb, int width, int height, long long timestamp, std::vector<int>& alarm_ids, std::string dynamicArgs)
+	std::string RunPython(PyObject* fun, std::string uuid, unsigned char* rgb, int width, int height, long long timestamp, std::vector<int>& alarm_ids, std::string dynamicArgs)//add
 	{
 		//const char* video_inpath = "input.mp4";
 		//VideoCapture capture;
@@ -177,7 +177,7 @@ namespace ipython {
 //#ifndef _Debug_
 		char* rlt6 = "";
 		PyObject* pValue = NULL;
-		PyObject* pArg = PyTuple_New(4);
+		PyObject* pArg = PyTuple_New(4);//change
 		PyObject* pList = PyList_New(0);
 
 		npy_intp dims[] = { height, width, 3 }; //给定维度信息
@@ -188,7 +188,7 @@ namespace ipython {
 		PyTuple_SetItem(pArg, 0, Py_BuildValue("s", uuid.c_str()));
 		PyTuple_SetItem(pArg, 1, Py_BuildValue("l", timeStamps));
 		PyTuple_SetItem(pArg, 2, pList);
-		PyTuple_SetItem(pArg, 3, dynamicArgs.c_str());
+		PyTuple_SetItem(pArg, 3, dynamicArgs.c_str());//add
 
 		//std::cout << "PyEval_CallObject begin" << " fun"<< fun << std::endl;
 		pValue = PyEval_CallObject(fun, pArg);

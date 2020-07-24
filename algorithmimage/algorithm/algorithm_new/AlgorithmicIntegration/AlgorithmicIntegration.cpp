@@ -63,7 +63,7 @@ void StartWork();
 
 //#include <vector>
 std::vector<ChannelInfo *> gb_ChannelInfo;
-std::string dynamicArgs;
+std::string dynamicArgs; // add
 
 int main()
 {

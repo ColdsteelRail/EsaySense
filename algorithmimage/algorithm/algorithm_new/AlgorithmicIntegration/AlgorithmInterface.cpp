@@ -98,7 +98,7 @@ bool AlgorithmInterface::PrepareAlgorithm(int algorithm_id)
 
 	return true;
 }
-std::string AlgorithmInterface::InputFrame(std::string uuid, unsigned char* rgb, int width, int height, long long timestamp, std::vector<int>& alarm_ids, std::string dynamicArgs)
+std::string AlgorithmInterface::InputFrame(std::string uuid, unsigned char* rgb, int width, int height, long long timestamp, std::vector<int>& alarm_ids, std::string dynamicArgs) // add
 {
 	//std::cout << "InputFrame type:" << SettingConfig::GetInstance().m_algorithm_type << std::endl;
 	if (1 == SettingConfig::GetInstance().m_algorithm_type || 2 == SettingConfig::GetInstance().m_algorithm_type) {
@@ -130,7 +130,7 @@ std::string AlgorithmInterface::InputFrame(std::string uuid, unsigned char* rgb,
 		//算法计算
 		//std::cout << "ipython::RunPython" << std::endl;
 		int time = GetTickCount_();
-		auto result = ipython::RunPython(m_algorithm_fun, uuid, (unsigned char*)rgb, width, height, timestamp, alarm_ids, dynamicArgs);
+		auto result = ipython::RunPython(m_algorithm_fun, uuid, (unsigned char*)rgb, width, height, timestamp, alarm_ids, dynamicArgs); //add
 		time = GetTickCount_() - time;
 		if (time>100)
 		{
