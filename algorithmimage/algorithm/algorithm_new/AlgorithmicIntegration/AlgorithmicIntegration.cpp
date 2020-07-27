@@ -7,6 +7,7 @@
 #include "UploadInterface.h"
 #include "Utils/cm_thread.h"
 
+#include "socketReciver.h"
 #include "NetLibSDK.h"
 #include "IPython.h"
 #include "RedisInterface.h"
@@ -63,8 +64,6 @@ void StartWork();
 
 //#include <vector>
 std::vector<ChannelInfo *> gb_ChannelInfo;
-std::string dynamicArgs; // add
-
 int main()
 {
 	char chPath[1024] = { 0 };
@@ -139,6 +138,13 @@ int main()
 	cout << "step4 start work" << endl;
 	StartWork();
 
+	// 单开一个线程
+	std::thread socket_serv;
+	char dynamicArgs[1024]; 
+	dynamicArgs = NULL;
+	socket_serv = std::thread(socketReciver, dynamicArgs);
+
+
 	while (true) {
 
 		bool  hasframe = false;
@@ -152,7 +158,7 @@ int main()
 			hasframe = true;
 
 			std::vector<int> alarm_ids;
-			auto result = gb_ChannelInfo[i]->algorithmInterface->InputFrame(gb_ChannelInfo[i]->uuid, (uint8_t*)frame_node->rgb_buf, frame_node->width, frame_node->height, frame_node->pts,alarm_ids);
+			auto result = gb_ChannelInfo[i]->algorithmInterface->InputFrame(gb_ChannelInfo[i]->uuid, (uint8_t*)frame_node->rgb_buf, frame_node->width, frame_node->height, frame_node->pts,alarm_ids, std::string(dynamicArgs));
 			if (result != "")
 			{
 

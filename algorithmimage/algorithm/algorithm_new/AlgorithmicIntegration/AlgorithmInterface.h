@@ -25,7 +25,7 @@ public:
 
 public:
 	bool PrepareAlgorithm(int algorithm_id);
-	std::string InputFrame(std::string uuid, unsigned char* rgb, int width, int height, long long timestamp, std::vector<int>& alarm_ids);
+	std::string InputFrame(std::string uuid, unsigned char* rgb, int width, int height, long long timestamp, std::vector<int>& alarm_ids, std::string dynamicArgs);
 
 private:
 	int m_algorithm_id;
