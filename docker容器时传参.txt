@@ -1,0 +1,21 @@
+docker run -e EVENT_ID=ffasfa234sa \
+-e MODEL_ARGS="{\"arg1\":1, \"arg2\":2}" \
+-e ALGORITHM_INSTANCE_ADDRESS=10.88.0.26 \
+-e ALGORITHM_INSTANCE_PORT=8001 \
+-e ANALYSIS_FREQUENCY=5 \
+-e CONTROL_FLAG=star \
+-e ROI=[[50,50],[450,500]] \
+-e CONFIG_IP_ADDRESS=10.88.0.94 \
+-e CONFIG_PORT=12000 \
+-e CONFIG_USER_NAME=admin \
+-e CONFIG_PASS_WORD=admin \
+-e HANDLE_INDEX_BEGIN=0 \
+-e HANDLE_INDEX_END=0 \
+-e UPLOAD_IP_ADDRESS=10.88.0.94 \
+-e UPLOAD_PORT=12000 \
+-e ALARM_IP_ADDRESS=10.88.0.94 \
+-e ALARM_PORT=6379 \
+-e AlGORITHM_TYPE=3 \
+-e ALGORITHM_SO_NAME=yolov3ClientModule \
+-e DEVICE_ID=1, \
+-it -d -v /home/ubuntu/mount:/root/algorithm/Bin/mount 116e0b9947ea
