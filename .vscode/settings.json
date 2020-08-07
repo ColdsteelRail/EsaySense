@@ -1,8 +1,0 @@
-{
-    "cmake.configureOnOpen": false,
-    "files.associations": {
-        "xlocale": "cpp",
-        "xstring": "cpp",
-        "xutility": "cpp"
-    }
-}
